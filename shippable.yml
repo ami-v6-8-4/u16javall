@@ -1,7 +1,7 @@
 language: java
 
-runtime:
-  nodePool: dynamic__x86_64__Ubuntu_14_04__c4_large
+#runtime:
+#  nodePool: dynamic__x86_64__Ubuntu_14_04__c4_large
   
 jdk:
   - openjdk7
