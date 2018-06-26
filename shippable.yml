@@ -6,10 +6,8 @@ runtime:
 jdk:
   - openjdk7
   - openjdk8
- # - openjdk9 
   - oraclejdk10
   - oraclejdk8
- # - oraclejdk9
  
 build:
 
